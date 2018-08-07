@@ -1,0 +1,9 @@
+#lblResult {
+	-fx-background-color: #ffffff;
+	-fx-font-weight: bold;
+}
+
+#lblError {
+	-fx-font-weight: bold;
+	-fx-text-fill: red;
+}
