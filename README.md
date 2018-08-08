@@ -5,3 +5,5 @@
 ### Imagem de exemplo da calculadora:
 
 ![Calculadora](https://github.com/RafaelSouzaValle/CalculadoraJavaFX/blob/master/src/main/resources/scr_stages/ca48c81.png)
+
+### Layout estruturado com uso de FXML e estilo com CSS
