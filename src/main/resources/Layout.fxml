@@ -14,7 +14,7 @@
 	</padding>
 	  
 	<StackPane prefHeight="55.0" prefWidth="220.0" GridPane.rowIndex="0" GridPane.columnSpan="5">
-		<Label fx:id="lblResult" alignment="CENTER_RIGHT" prefHeight="55.0" prefWidth="220.0" text="Label" StackPane.alignment="CENTER_RIGHT" />
+		<Label fx:id="lblResult" alignment="CENTER_RIGHT" prefHeight="55.0" prefWidth="220.0" text="0" StackPane.alignment="CENTER_RIGHT" />
         <Label id="lblError" text="E" alignment="CENTER_LEFT" StackPane.alignment="CENTER_LEFT" />
         <StackPane.margin>
         	<Insets left="5" />
