@@ -1,6 +1,6 @@
 # Calculadora App [JavaFX]
 
-## Projeto de uma calculadora desenvolvida usando JavaFX - em desenvolvimento
+## Projeto de uma calculadora desenvolvida usando JavaFX #### (em desenvolvimento)
 
 ### Imagem de exemplo da calculadora:
 
